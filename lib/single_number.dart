@@ -13,6 +13,5 @@ int singleNumber(List<int> nums){
     // uss xor operation
     result ^= i; 
   }
-
   return result;
 }
